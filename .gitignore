@@ -1,0 +1,8 @@
+#Ignore CSS Folder (Use SASS Instead)
+
+  css/**
+
+#Ignore Vendor Files
+  vendor/**
+
+
